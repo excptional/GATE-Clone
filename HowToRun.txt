@@ -1,0 +1,9 @@
+To run the backend,
+open terminal, then run these commands.
+cd backend
+java -jar GateQuestions.jar
+
+To run the frontend,
+open a new terminal, then run these commands.
+cd frontend
+vue serve
